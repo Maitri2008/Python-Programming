@@ -10,7 +10,7 @@ c=int(input("Enter marks of Subject 3: "))
 
 # Calculating the average
 
-avg=((a+b+c)/300)*100
+avg=(a+b+c)/3
 
 # Printing Average
 
