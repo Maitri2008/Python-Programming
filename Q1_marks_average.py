@@ -2,7 +2,7 @@
 
 print("--- Marks & Average Calculator ---")
 
-# Taking input for 3 subjcts
+# Taking input for 3 subjects
 
 a=int(input("Enter marks of Subject 1: "))
 b=int(input("Enter marks of Subject 2: "))
@@ -14,4 +14,13 @@ avg=(a+b+c)/3
 
 # Printing Average
 
-print("Avearge Marks: ",avg)
+print("Average Marks: ",avg)
+
+"""
+------------------ SAMPLE OUTPUT ------------------
+Enter marks of Subject 1: 85
+Enter marks of Subject 2: 90
+Enter marks of Subject 3: 95
+Average Marks:  90.0
+---------------------------------------------------
+"""
