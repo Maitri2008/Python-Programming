@@ -17,3 +17,4 @@ else:
 Enter marks: 98
 Congratulations...You've PASSED the examination
 -----------------------------------------------------
+"""
